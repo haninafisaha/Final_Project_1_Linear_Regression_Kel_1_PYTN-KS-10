@@ -10,6 +10,8 @@
 
 <b>Link Deployment :</b> https://prediksi-harga-fp1-kel1.netlify.app/ <br>
 
+<b>Link Backend :</b> https://prediksi-harga-final-project1.herokuapp.com <br>
+
 <h1><b>Objektif</b></h1>
 Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
 <ul>
