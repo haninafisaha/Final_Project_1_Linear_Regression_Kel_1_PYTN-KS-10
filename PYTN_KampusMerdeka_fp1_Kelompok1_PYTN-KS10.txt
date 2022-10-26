@@ -7,3 +7,5 @@ Kelompok 1 :
 Link Github : https://github.com/haninafisaha/Final_Project_1_Linear_Regression_Kel_1_PYTN-KS-10
 
 Link Deployment : https://prediksi-harga-fp1-kel1.netlify.app/
+
+Link Backend : https://prediksi-harga-final-project1.herokuapp.com
