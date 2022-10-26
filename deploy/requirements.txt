@@ -1,0 +1,7 @@
+waitress
+pandas
+scikit-learn
+flask
+gunicorn
+sklearn
+numpy
